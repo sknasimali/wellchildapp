@@ -1,0 +1,7 @@
+{
+  "name": "wellchildapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
